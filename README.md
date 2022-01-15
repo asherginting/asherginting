@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently learning on **[Fazztrack](https://www.fazztrack.com//)**
+- 🔭 I'm currently learning on **[Fazztrack](https://www.fazztrack.com)**
 
 - 🌱 I’m currently learning to become a  **Fullstack Web Developer**
 
