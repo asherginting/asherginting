@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/asherginting)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://play.google.com/store/apps/dev?id=4692857836217127100)**
 
 - 📫 How to reach me **asherginting3@gmail.com**
 
