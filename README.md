@@ -76,6 +76,12 @@
    
 </p>
 <br>
+
+## 🥳 Github Stats :
+<img src="https://github-readme-stats.vercel.app/api/?username=asherginting&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asherginting&layout=compact" alt="github stats"/>
+
+<br>
 <h3 align="center">Don’t let the difficulties stop you from chasing your dreams 😉
 </h3>
 
