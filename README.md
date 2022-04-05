@@ -1,4 +1,6 @@
-<a href="https://ibb.co/3hmd4Rv"><img src="https://i.ibb.co/ggZ9m4d/Profile-Asher.png" alt="Profile-Asher" height="300" align='center'></a>
+<p align="center">
+<a href="#"><img src="https://avatars.githubusercontent.com/u/39787908?v=4" alt="Profile-Asher" height="300"></a>
+</p>
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asher Azriel Ginting</h1>
 <h3 align="center">Connect with me :</h3>
