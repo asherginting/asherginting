@@ -15,9 +15,7 @@
 
 - 👨‍🎓 Bachelor's degree, Computer Science
 
-- 👨‍🏫 I'm currently learning on **[Fazztrack](https://www.fazztrack.com)**
-
-- 🕵️‍♂️ I’m currently learning to become a  **Fullstack Web Developer**
+- 🕵️‍♂️ **Fullstack Web Developer**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
