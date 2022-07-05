@@ -15,7 +15,7 @@
 
 - 👨‍🎓 Bachelor's degree, Computer Science
 
-- 🕵️‍♂️ **Fullstack Web Developer**
+- 🕵️‍♂️ **Fullstack Developer**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
