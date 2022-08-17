@@ -13,13 +13,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 Bachelor's degree, Computer Science
 
-- 🕵️‍♂️ **Fullstack Developer**
+- 🕵️‍♂️ **Fullstack Developer** at **[Refactory](https://refactory.id/)**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 📝 Personal info at **[CV](https://resume.showwcase.com/asherginting.pdf)**
 
-- 👨‍💻 All of my projects are available at **[Personal Website](https://asherginting.github.io/)**
+- 👨‍💻 All of my projects are available at **[Personal Web](https://asherginting.github.io/)**
 
 - 📫 How to reach me **asherginting3@gmail.com**
 
