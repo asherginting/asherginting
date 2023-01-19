@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🕵️‍♂️ Junior Software Engineer | Mobile Enthusiast
+- 🕵️‍♂️ Junior Software Engineer
 
 - 📝 My Update **[CV/Resume](https://asherginting.me/about)**
 
