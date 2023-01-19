@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/39787908/180156484-fd5eefcb-f8bc-4cb6-9d75-abe2aceca674.png" alt="Profile-Asher" height="300"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/39787908/213467703-8df8d5b4-d8a5-447b-8afd-8fcc9562306b.png" alt="Profile-Asher" height="300"></a>
 </p>
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Asher Azriel Ginting</h1>
@@ -14,19 +14,19 @@
 ## 🙋‍♂️ About Me
 
 
-- 🕵️‍♂️ **Fullstack Developer** at **[Refactory](https://refactory.id/)**
+- 🕵️‍♂️ Junior Software Engineer | Mobile Enthusiast
 
-- 📝 Personal info at **[CV](https://resume.showwcase.com/asherginting.pdf)**
+- 📝 My Update **[CV/Resume](https://asherginting.me/about)**
 
-- 👨‍💻 All of my projects are available at **[Personal Web](https://asherginting.github.io/)**
+- 👨‍💻 All of **[My Project](https://asherginting.me/projects)** are available
 
-- 📫 How to reach me **asherginting3@gmail.com**
+- 📫 Please **[Contact Me](https://asherginting.me/about)** for more information
 
-- 🎵 Fun fact **I play music**
+- 👨‍💼 Fun fact **Learn new something about Technology**
 
 <br>
 
-## 👨‍💻 Languages, Framework & State :
+## 👨‍💻 Languages, Framework & Library :
 
 <p align="left"> 
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -34,6 +34,10 @@
     <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     </a>
     <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+    </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/typescript.png"/>
+    </a> 
+    <a href="https://tailwindui.com/documentation" target="_blank"> <img src="https://img.icons8.com/color/48/tailwindcss.png"/>
     </a> 
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     </a> 
@@ -43,12 +47,34 @@
     </a> 
     <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
     </a> 
-    <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-web-token.png"/>
-    </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
     </a>  
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/redux.png"/>
+    </a> 
     </a>     
+</p>
+
+<p align="left"> 
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/kotlin.png"/>
+    </a> 
+    <a href="https://www.swift.org/documentation/" target="_blank"> <img src="https://img.icons8.com/color/48/swift.png"/>
+    </a> 
+    <a href="https://docs.flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/flutter.png"/>
+    </a> 
+    <a href="https://dart.dev/guides" target="_blank"> <img src="https://img.icons8.com/color/48/dart.png"/>
+    <a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png"/>
+    </a> 
+    </a>    
+</p>
+
+<br/>
+
+## 🔥 Development Application :
+
+<p align="left"> 
+    <img src="https://img.icons8.com/cotton/48/website.png"/>  
+    <img src="https://img.icons8.com/external-others-inmotus-design/48/external-Android-mobile-apps-others-inmotus-design.png"/>
+    <img src="https://img.icons8.com/nolan/48/ios-logo.png"/>
 </p>
 
 <br/>
@@ -59,10 +85,16 @@
     <a href="https://ubuntu.com/download/desktop" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
     </a>
     <a href="https://www.microsoft.com/software-download/windows11" target="_blank"> <img src="https://img.icons8.com/color/48/windows-11.png"/>
+    <a href="https://www.apple.com/id/macos/ventura/" target="_blank"> <img src="https://img.icons8.com/stickers/48/macbook.png"/>
+    </a>
     </a>
     <a href="https://ubuntu.com/download/desktop" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/code.png"/>
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+    </a> 
+    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/android-studio--v3.png"/>
+    </a> 
+    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.icons8.com/color/48/xcode.png"/>
     </a> 
     <a href="https://www.postman.com/downloads/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/>
     </a> 
@@ -76,9 +108,6 @@
     </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/firebase.png"/>
     </a>
-    <a href="https://zoom.us/" target="_blank"> <img src="https://img.icons8.com/color/48/zoom.png"/>
-    </a>
-   
 </p>
 <br>
 
