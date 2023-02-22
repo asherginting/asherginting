@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of **[My Project](https://asherginting.me/projects)** are available
 
-- 📫 Please **[Contact Me](https://asherginting.me/about)** for more information
+- 📫 Please **[Contact Me](https://asherginting.me/contact)** for more information
 
 - 👨‍💼 Fun fact **Learn new something about Technology**
 
