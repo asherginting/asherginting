@@ -3,13 +3,6 @@
 </p>
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Asher Azriel Ginting</h1>
-<h3 align="center">Connect with me :</h3>
-
-<p align="center">
-<a href = "https://www.linkedin.com/in/asherginting/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/ashergintings/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
 
 ## 🙋‍♂️ About Me
 
@@ -18,11 +11,7 @@
 
 - 📝 My Update **[CV/Resume](https://asherginting.me/about)**
 
-- 👨‍💻 All of **[My Project](https://asherginting.me/projects)** are available
-
-- 📫 Please **[Contact Me](https://asherginting.me/contact)** for more information
-
-- 👨‍💼 Fun fact **Learn new something about Technology**
+- 🚀 Quick to learn new things
 
 <br>
 
