@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🕵️‍♂️ Junior Software Engineer
+- 🕵️‍♂️ Mobile & Web Developer
 
 - 📝 My Update **[CV/Resume](https://asherginting.me/about)**
 
