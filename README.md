@@ -1,20 +1,3 @@
-<p align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/39787908/213467703-8df8d5b4-d8a5-447b-8afd-8fcc9562306b.png" alt="Profile-Asher" height="300"></a>
-</p>
-    
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Asher Azriel Ginting</h1>
-
-## 🙋‍♂️ About Me
-
-
-- 🕵️‍♂️ Mobile & Web Developer
-
-- 📝 My Update **[CV/Resume](https://asherginting.me/about)**
-
-- 🚀 Quick to learn new things
-
-<br>
-
 ## 👨‍💻 Languages, Framework & Library :
 
 <p align="left"> 
