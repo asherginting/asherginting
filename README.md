@@ -1,9 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <a href="https://asherginting.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color
-        +=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Asher%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&des
-        +c=Fullstack%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20R
-        +eact%20Native%20%E2%80%A2%20Node.js&descAlignY=58&descSize=16" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Asher%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Node.js&descAlignY=58&descSize=16" alt="header" />
 </a>
 
 <!-- ===================== TYPING INTRO ===================== -->
