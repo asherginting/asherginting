@@ -1,6 +1,9 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <a href="https://asherginting.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Asher%20Azriel%20Ginting&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Node.js&descAlignY=58&descSize=16" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color
+        +=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Asher%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&des
+        +c=Fullstack%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20R
+        +eact%20Native%20%E2%80%A2%20Node.js&descAlignY=58&descSize=16" alt="header" />
 </a>
 
 <!-- ===================== TYPING INTRO ===================== -->
@@ -27,7 +30,7 @@
 
 | 🎯 What I Do | 💼 Open To | 🌍 Ways to Work |
 |:-----------:|:----------:|:---------------:|
-| **Fullstack / Frontend / Mobile Engineering** | New roles • Freelance • Side projects | Onsite • Hybrid • Remote |
+| **Fullstack / Frontend / Mobile Engineer** | Fulltime • Part-Time • Freelance | Onsite • Hybrid • Remote |
 
 *Always happy to connect with teams building meaningful products — let's create something great together.*
 
@@ -173,11 +176,22 @@ const asher: Engineer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asherginting&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2EA6FF&icon_color=2EA6FF" alt="github stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asherginting&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA6FF&langs_count=8" alt="top languages" />
+<!-- Profile overview banner -->
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asherginting&theme=tokyonight" alt="profile summary" />
 
 <br/>
 
+<!-- Stats + most-used language -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asherginting&theme=tokyonight" alt="github stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asherginting&theme=tokyonight" alt="most used language" />
+
+<!-- Languages breakdown + productive time -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asherginting&theme=tokyonight" alt="top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asherginting&theme=tokyonight&utcOffset=7" alt="productive time" />
+
+<br/>
+
+<!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=asherginting&theme=tokyonight&hide_border=true&background=0D1117&ring=2EA6FF&fire=2EA6FF&currStreakLabel=2EA6FF" alt="streak stats" />
 
 </div>
@@ -186,13 +200,6 @@ const asher: Engineer = {
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asherginting&bg_color=0D1117&color=2EA6FF&line=2EA6FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="activity graph" />
-
-</div>
-
-<!-- ===================== TROPHIES ===================== -->
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=asherginting&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)](https://github.com/asherginting)
 
 </div>
 
@@ -233,14 +240,6 @@ const asher: Engineer = {
 
 </div>
 
----
-
-<div align="center">
-
-> ### 💡 *"I turn complex backend logic into intuitive UI people actually enjoy using."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great.&fontSize=18&fontColor=ffffff&fontAlignY=72&desc=%E2%AD%90%20Star%20a%20repo%20%E2%80%A2%20Drop%20a%20follow%20%E2%80%A2%20Say%20hi&descAlignY=88&descSize=12" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=footer&text=Bye%20%F0%9F%91%8B%20Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&fontAlignY=68&desc=%E2%AD%90%20Star%20a%20repo%20%E2%80%A2%20Drop%20a%20follow%20%E2%80%A2%20Say%20hi&descAlignY=88&descSize=13" width="100%" alt="footer" />
 
 </div>
